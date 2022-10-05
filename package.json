@@ -1,0 +1,23 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspecta/js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspecta/js-testing/issues"
+  },
+  "homepage": "https://github.com/inspecta/js-testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664969548157" clover="3.2.0">
+  <project timestamp="1664969548158" name="All files">
+    <metrics statements="24" coveredstatements="23" conditionals="12" coveredconditionals="8" methods="9" coveredmethods="9" elements="45" coveredelements="40" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\washington schools\Documents\Microverse\pair-personal\js-testing\modules\calculator.js">
+      <metrics statements="13" coveredstatements="12" conditionals="6" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="3" falsecount="1"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\washington schools\Documents\Microverse\pair-personal\js-testing\modules\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Users\washington schools\Documents\Microverse\pair-personal\js-testing\modules\reverseString.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="C:\Users\washington schools\Documents\Microverse\pair-personal\js-testing\modules\stringLength.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="3" falsecount="1"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
